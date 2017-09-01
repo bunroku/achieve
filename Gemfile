@@ -48,6 +48,8 @@ gem 'jquery-turbolinks'
 gem 'rails_12factor', group: :production
 gem 'devise'
 gem 'faker'
+gem 'rails_admin'
+gem 'cancan'
 
 group :development do
   gem 'letter_opener_web'
